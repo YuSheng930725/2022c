@@ -115,3 +115,16 @@ int main()
         printf("不管什麼東西，幾乎都成立\n");
 }
 ```
+# Week 07
+## step01-1
+```cpp
+#include <stdio.h>
+int main()
+{
+    int n=1234567812345678;
+    printf("%d\n",n);
+
+    long long int a=1234567812345678;
+    printf("%lld\n",a);
+}
+```
