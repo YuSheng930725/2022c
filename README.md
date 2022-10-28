@@ -217,7 +217,7 @@ int main()
     }
 }
 ```
-# step01-3
+## step01-3
 ```cpp
 #include <stdio.h>
 int main()
@@ -234,7 +234,7 @@ int main()
     else printf("%d 不是質數(早就壞掉了)",n);
 }
 ```
-# step01-4
+## step01-4
 ```cpp
 #include <stdio.h>
 int main()
